@@ -4,6 +4,11 @@
 
 This project demonstrates a dynamic haptic feedback system based on the proximity of a finger to a randomly placed dot on the screen. The closer the user's finger gets to the dot, the more intense the haptic vibration feedback becomes. This project is built to showcase haptic feedback integration with a touch interface.
 
+![Image 1](Screenshot 2024-11-18 at 4.36.42 PM.png)
+![Image 2](Screenshot 2024-11-18 at 4.36.47 PM.png)
+![Image 3](Screenshot 2024-11-18 at 4.36.52 PM.png)
+
+
 ## Features
 
 - **Random Dot Placement**: A dot appears at a random location on the screen.
